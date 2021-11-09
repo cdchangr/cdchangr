@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cdchangr
 - 👀 I’m interested in data and design.
-- 🌱 I’m currently learning textual data mining.
+- 🌱 I’m currently learning cloud management.
 
 <!---
 cdchangr/cdchangr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
